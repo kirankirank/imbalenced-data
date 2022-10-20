@@ -43,6 +43,10 @@ III.	Combo of (under sampling + over sampling)
         A.	SMOTEENN
         
         
+        
+        B.     SMOTETOMEK
+        
+        
 IV.	Ensemble (this one for ensemble)
 
 
