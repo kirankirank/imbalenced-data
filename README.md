@@ -44,7 +44,7 @@ III.	Combo of (under sampling + over sampling)
         
         
         
-        B.     SMOTETOMEK
+        B.    SMOTETOMEK
         
         
 IV.	Ensemble (this one for ensemble)
